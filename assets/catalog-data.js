@@ -1,9 +1,9 @@
 (function () {
   var phone = "919500694579";
   var catalogs = [
-    {name:"Magic Mind", detail:"A Unit of Galaxy Publication", file:"MAGIC MIND CATA. FOR VIEW.pdf", cover:"assets/catalog-covers/magic-mind.jpg"},
-    {name:"Galaxy Publication", detail:"Galaxy Books · Kinderquill Books", file:"GALAXY CATALOGUE DESIGN FOR VIEW.pdf", cover:"assets/catalog-covers/galaxy.jpg"},
-    {name:"Coral Publication", detail:"2026–27 catalogue", file:"CORAL CATALOGUE.pdf", cover:"assets/catalog-covers/coral.jpg"}
+    {name:"Magic Mind", detail:"A Unit of Galaxy Publication", file:"magic-mind-catalogue.pdf", cover:"assets/catalog-covers/magic-mind.jpg"},
+    {name:"Galaxy Publication", detail:"Galaxy Books · Kinderquill Books", file:"galaxy-publication-catalogue.pdf", cover:"assets/catalog-covers/galaxy.jpg"},
+    {name:"Coral Publication", detail:"2026–27 catalogue", file:"coral-catalogue.pdf", cover:"assets/catalog-covers/coral.jpg"}
   ];
   var series = {
     "Magic Mind":[
